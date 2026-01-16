@@ -1,6 +1,29 @@
-Endoscope Reprocessing IoT – PostgreSQL
+## Hey 👋, I'm Carlos Hoyos
 
-Descripción general
+Hi there, I'm **Carlos Hoyos**, a **biomedical enginner and pasionate dev**.
+
+I love programming and create.
+
+### Talking about Personal Stuffs:
+
+- 👨🏽‍💻 I’m currently a biomedical enginner and MSc student in management in digital transformation; 
+- 🤔 My interests are IoT, management and a couple more.;
+- 💼 At work i’m pursuing knowledge;
+- 💬 Ask me about digital transformation and tech, I am happy to help;
+- 📫 Please email me if you have any questions carlos.hoyos@raniot.tech.
+
+### project 
+
+## Endoscope Reprocessing IoT – PostgreSQL
+
+### Languages and Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![arduino](https://img.shields.io/badge/Arduino-3776AB?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=cplusplus&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+### Descripción general
 
 Este repositorio contiene el diseño de una base de datos en PostgreSQL y la lógica en PL/pgSQL para gestionar el reprocesado de endoscopios en salas de reprocesamiento que complementa el repositorio https://github.com/carlhoro/PMV-IoT.
 
@@ -8,7 +31,7 @@ El objetivo principal del sistema es garantizar trazabilidad, control y auditabi
 
 El proyecto está diseñado como una base de datos autocontenida, donde las reglas críticas del negocio se aplican directamente a nivel del motor de base de datos.
 
----Objetivo del sistema
+### Objetivo del sistema
 
 El sistema permite:
     Registrar eventos de reprocesado de endoscopios en tiempo real
@@ -125,3 +148,8 @@ Orden sugerido de ejecución:
     /seeds/seed_demo_data.sql
 
 Este proyecto se distribuye bajo la Licencia MIT.
+
+### Contact me:
+
+- Personal website: [![website](https://img.shields.io/badge/https://raniot.tech-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://raniot.tech/)
+- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
