@@ -152,4 +152,4 @@ Este proyecto se distribuye bajo la Licencia MIT.
 ### Contact me:
 
 - Personal website: [![website](https://img.shields.io/badge/https://raniot.tech-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://raniot.tech/)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
+- Email: [![Email](https://img.shields.io/badge/carlos.hoyos@raniot.tech-D14836?style=flat-square&logo=gmail&logoColor=white)](carlos.hoyos@raniot.tech)
